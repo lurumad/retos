@@ -1,0 +1,4 @@
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumper\bin\Debug\ObjectDumper.dll
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumper\bin\Debug\ObjectDumper.pdb
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumper\obj\Debug\ObjectDumper.dll
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumper\obj\Debug\ObjectDumper.pdb

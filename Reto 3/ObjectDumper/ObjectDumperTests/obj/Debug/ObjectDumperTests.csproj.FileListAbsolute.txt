@@ -1,0 +1,7 @@
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumperTests\bin\Debug\ObjectDumperTests.dll
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumperTests\bin\Debug\ObjectDumperTests.pdb
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumperTests\obj\Debug\ObjectDumperTests.dll
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumperTests\obj\Debug\ObjectDumperTests.pdb
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumperTests\obj\Debug\ObjectDumperTests.csprojResolveAssemblyReference.cache
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumperTests\bin\Debug\ObjectDumper.dll
+C:\DEV\retos\Reto 3\ObjectDumper\ObjectDumperTests\bin\Debug\ObjectDumper.pdb
